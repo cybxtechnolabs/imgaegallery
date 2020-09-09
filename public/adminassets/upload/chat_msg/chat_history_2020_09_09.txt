@@ -1,0 +1,60 @@
+Test User chat with Jigss
+----------------------------------------
+Jigss: hello
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/149248284_pan_card.jpg
+Jigss: ss
+Jigss: asd
+Jigss: asd
+Jigss: 52
+Jigss: 52
+Jigss: ko
+Jigss: ss
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/409344770_aadhar.jpeg
+Jigss: ss
+Jigss: ffff
+Test User: JAKLSJDF K;KASDF L;KA S;LKF AKS;LDF LJASD'F ASDJF ;JASDFJ AKJSDK JASDJ JFAKLSJDF JA FADSF;LASD LF;'L
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/588967476_get_start.jpg
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/140231248_get_start.jpg
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/273025012_aadhar.jpeg
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/580586513_pan_card.jpg
+Jigss: asd
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/842272951_OpTransactionHistory31-08-2020.pdf
+Jigss: asd
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/137141169_get_start.jpg
+Jigss: asdf
+Test User: qwerty
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/531040632_get_start.jpg
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/741803007_pan_card.jpg
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/354372467_get_start.jpg
+Jigss: 123
+Jigss: as
+Jigss: asd
+Jigss: test
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/147662388_aadhar.jpeg
+Jigss: asd
+Test User: 123
+Jigss: 4567
+Jigss: Hi
+Test User: hello
+Test User: hi
+Test User: hi
+Jigss: asd
+Jigss: asd
+Jigss: das
+Test User: asd
+Jigss: asdf
+Jigss: jil
+Test User: 152
+Jigss: asd
+Test User: erw
+Jigss: wret
+Jigss: 456
+Jigss: 45
+Jigss: Send the file - http://127.0.0.1:8000/upload/chat_attachments/871909617_149248284_pan_card.jpg
+Test User: asd
+Jigss: asdasdsda
+Test User: adsf
+Jigss: asdf
+Test User: asdf
+Jigss: asd
+Test User: asd
